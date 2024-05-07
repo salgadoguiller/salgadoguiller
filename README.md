@@ -13,6 +13,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="80" height="80" />
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="80" height="80" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80" />
 </p>
 
 <br />
