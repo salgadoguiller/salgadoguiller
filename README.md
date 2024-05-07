@@ -1,9 +1,9 @@
-<h3 align="center">Hi 👋, I'm Guillermo Salgado</h3>
-<p align="center">A software engineer with more than 8 years of experience from Honduras</p>
+<h1 align="center">Hi 👋, I'm Guillermo Salgado</h1>
+<h4 align="center">A software engineer with more than 8 years of experience from Honduras</h4>
 
 <br />
 
-<h5 align="left">My Top Skills:</h5>
+<h3 align="left">My Top Skills:</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -58,7 +58,7 @@
 
 <br />
 
-<h5 align="left">Connect with me:</h5>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/salgadoguiller" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -77,7 +77,7 @@
 <br />
 
 
-<h5 align="left">Links:</h5>
+<h3 align="left">Links:</h3>
 
 - 👨‍💻[Portfolio](https://portfolio-three-pearl-77.vercel.app/)
 - 📫 [Email](mailto:guillermosalgado822@gmail.com)
