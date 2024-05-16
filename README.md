@@ -36,8 +36,9 @@
 
 <h3 align="left">Links:</h3>
 
-- 📫 [Email](mailto:guillermosalgado822@gmail.com)
+- 📨 [Email](mailto:guillermosalgado822@gmail.com)
+- 📱 [Whatsapp](https://wa.me/+50496406631)
 - 📄 [Resume](https://drive.google.com/file/d/102TpCZmsRu6DS21CTotDSPjzmPdXzS4N/view)
-- 👨‍💻[Portfolio](https://portfolio-three-pearl-77.vercel.app/)
-- 📄 [GCP Certifications](https://www.credential.net/profile/guillermoantoniocrescenciosalgado347764/wallet#gs.pw3n0f)
-- 📄 [SAFe® 5 Certifications](https://www.credly.com/users/guillermo-antonio-crescencio-salgado/badges)
+- 💻 [Portfolio](https://portfolio-three-pearl-77.vercel.app/)
+- 📂 [GCP Certifications](https://www.credential.net/profile/guillermoantoniocrescenciosalgado347764/wallet#gs.pw3n0f)
+- 🗂️ [SAFe® 5 Certifications](https://www.credly.com/users/guillermo-antonio-crescencio-salgado/badges)
