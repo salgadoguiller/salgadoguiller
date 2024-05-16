@@ -40,4 +40,4 @@
 - 📄 [Resume](https://drive.google.com/file/d/102TpCZmsRu6DS21CTotDSPjzmPdXzS4N/view)
 - 👨‍💻[Portfolio](https://portfolio-three-pearl-77.vercel.app/)
 - 📄 [GCP Certifications](https://www.credential.net/profile/guillermoantoniocrescenciosalgado347764/wallet#gs.pw3n0f)
-- 📄 [SAFe® 5 Certifi cations](https://www.credly.com/users/guillermo-antonio-crescencio-salgado/badges)
+- 📄 [SAFe® 5 Certifications](https://www.credly.com/users/guillermo-antonio-crescencio-salgado/badges)
