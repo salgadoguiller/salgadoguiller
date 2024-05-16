@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/salgadoguiller" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="salgadoguiller" height="25" width="35" /></a>
   <a href="https://linkedin.com/in/salgadoguiller" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="salgadoguiller" height="25" width="35" /></a>
+  <a href="https://twitter.com/salgadoguiller" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="salgadoguiller" height="25" width="35" /></a>
   <a href="https://fb.com/salgadoguiller" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
@@ -36,6 +36,8 @@
 
 <h3 align="left">Links:</h3>
 
-- 👨‍💻[Portfolio](https://portfolio-three-pearl-77.vercel.app/)
 - 📫 [Email](mailto:guillermosalgado822@gmail.com)
-- 📄 [Resume](https://resume.io/r/RrMRtJSsv)
+- 📄 [Resume](https://drive.google.com/file/d/102TpCZmsRu6DS21CTotDSPjzmPdXzS4N/view)
+- 👨‍💻[Portfolio](https://portfolio-three-pearl-77.vercel.app/)
+- 📄 [GCP Certifications](https://www.credential.net/profile/guillermoantoniocrescenciosalgado347764/wallet#gs.pw3n0f)
+- 📄 [SAFe® 5 Certifi cations](https://www.credly.com/users/guillermo-antonio-crescencio-salgado/badges)
