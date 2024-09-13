@@ -33,22 +33,6 @@
 
 <br />
 
-<a href="https://github.com/salgadoguiller/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=salgadoguiller" />
-</a>
-<a href="https://github.com/salgadoguiller/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salgadoguiller&layout=compact&langs_count=8&card_width=320" />
-</a>
-<a href="https://github.com/salgadoguiller/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salgadoguiller&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/salgadoguiller/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salgadoguiller&repo=convoychat" />
-</a>
-
-<br />
-
-
 <h3 align="left">Links:</h3>
 
 - 📨 [Email](mailto:guillermosalgado822@gmail.com)
