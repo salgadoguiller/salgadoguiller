@@ -30,25 +30,31 @@ Senior Software Engineer with 10+ years of experience turning ideas into scalabl
 ## Skills
 
 **Languages**
-`TypeScript` `JavaScript` `Python` `HTML` `CSS`
+`JavaScript` `TypeScript` `Python` `HTML` `CSS`
 
-**Frontend**
-`Next.js` `React.js` `Vue.js` `Angular` `Tailwind CSS`
-
-**Backend**
-`Node.js` `Express.js` `Django` `Flask`
+**Frameworks & Libraries**
+`Next.js` `React.js` `Vue.js` `Angular` `Node.js` `Express.js` `Django` `Flask` `Tailwind CSS`
 
 **Databases**
 `PostgreSQL` `MySQL` `Microsoft SQL Server` `MongoDB` `Cloud Firestore`
 
 **Cloud & DevOps**
-`Google Cloud Platform` `Amazon Web Services` `Firebase` `Docker` `Linux` `CI/CD` `Serverless Framework`
+`Google Cloud Platform` `Firebase` `Amazon Web Services` `Docker` `Linux` `Serverless Framework` `CI/CD`
+
+**Tools & Integrations**
+`REST APIs` `GraphQL` `Git` `GitHub` `GitLab` `Testing` `Elasticsearch` `Stripe` `Auth0` `OpenAI` `Anthropic`
 
 **Architecture & Practices**
-`REST APIs` `GraphQL` `Microservices` `Software Architecture` `Agile / SAFe`
+`Software Architecture` `Microservices` `Agile Methodologies`
 
 **AI Tools**
-`Claude Code` `GitHub Copilot` `Cursor` `OpenAI Codex`
+`Claude Code` `Open Code` `Codex` `GitHub Copilot` `Antigravity` `Cursor`
+
+**AI Models**
+`Claude Opus 4.6` `Claude Sonnet 4.6` `GPT-5.4` `GPT-5.3-Codex` `MiniMax M2.5` `Kimi k2.5` `Qwen3.6-Plus`
+
+**Soft Skills**
+`Problem Solving` `Teamwork` `Communication` `Time Management` `Critical Thinking` `Self Learning` `Adaptation`
 
 ---
 
@@ -76,8 +82,7 @@ Senior Software Engineer with 10+ years of experience turning ideas into scalabl
 ## Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/salgadoguiller)
-- 🐦 [X / Twitter](https://twitter.com/salgadoguiller)
 - 💻 [Portfolio](https://portfolio-three-pearl-77.vercel.app/)
-- 📄 [Resume](https://drive.google.com/file/d/102TpCZmsRu6DS21CTotDSPjzmPdXzS4N/view)
+- 📄 [Resume](https://portfolio-three-pearl-77.vercel.app/api/cv?lang=en)
 - 📨 [Email](mailto:guillermosalgado822@gmail.com)
 - 📱 [WhatsApp](https://wa.me/+50496406631)
