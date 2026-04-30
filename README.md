@@ -1,43 +1,83 @@
-<h1 align="center">Hi 👋, I'm Guillermo Salgado</h1>
-<h3 align="center">A software engineer with more than 8 years of experience from Honduras</h3>
+<div align="center">
 
-<br />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer;Full-Stack+%7C+TypeScript+%7C+Python+%7C+GCP;10%2B+Years+Building+Scalable+Systems;AI-Augmented+Engineering+%F0%9F%A4%96" alt="Typing SVG" />
 
-<h3 align="left">My Top Skills:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80" />
-  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="80" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="80" height="80" />
-</p>
+</div>
 
-<br />
+# Guillermo Salgado 🇭🇳
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/salgadoguiller" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="salgadoguiller" height="25" width="35" /></a>
-  <a href="https://twitter.com/salgadoguiller" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="salgadoguiller" height="25" width="35" /></a>
-  <a href="https://fb.com/salgadoguiller" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="salgadoguiller" height="25" width="35" /></a>
-  <a href="https://instagram.com/salgadoguiller" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="salgadoguiller" height="25" width="35" /></a>
-</p>
+**Senior Software Engineer** · Tegucigalpa, Honduras · 10+ years of experience
 
-<br />
+Senior Software Engineer with 10+ years of experience turning ideas into scalable, high-quality, maintainable, and production-ready systems. Full-stack expertise spanning frontend, backend, databases, APIs, and cloud platforms. Strong problem-solving and collaborative mindset — experienced with Agile methodologies and committed to AI-augmented engineering.
 
-<h3 align="left">Links:</h3>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=salgadoguiller&theme=github-dark-blue&hide_border=true" height="165" />
+</div>
 
-- 📨 [Email](mailto:guillermosalgado822@gmail.com)
-- 📱 [Whatsapp](https://wa.me/+50496406631)
-- 📄 [Resume](https://drive.google.com/file/d/102TpCZmsRu6DS21CTotDSPjzmPdXzS4N/view)
+---
+
+## Experience
+
+| Company | Role | Period | Stack |
+|---|---|---|---|
+| [Abstract Development Studio](https://abstractdev.studio) | Senior Software Engineer | Jun 2023 – Present | TypeScript, React, Next.js, Node.js, Firebase, GCP, Stripe |
+| Sumadi | Senior Software Engineer | Feb 2022 – Sep 2023 | TypeScript, React, Node.js, Express, PostgreSQL, AWS |
+| 01 Digital Age | Senior Software Engineer | Apr 2021 – May 2023 | TypeScript, Python, Vue, React, Django, GCP, AWS |
+| Laureate International Universities | Senior Software Engineer | Oct 2016 – Oct 2021 | TypeScript, Angular, Python, Node.js, Django, Flask, GCP |
+
+---
+
+## Skills
+
+**Languages**
+`TypeScript` `JavaScript` `Python` `HTML` `CSS`
+
+**Frontend**
+`Next.js` `React.js` `Vue.js` `Angular` `Tailwind CSS`
+
+**Backend**
+`Node.js` `Express.js` `Django` `Flask`
+
+**Databases**
+`PostgreSQL` `MySQL` `Microsoft SQL Server` `MongoDB` `Cloud Firestore`
+
+**Cloud & DevOps**
+`Google Cloud Platform` `Amazon Web Services` `Firebase` `Docker` `Linux` `CI/CD` `Serverless Framework`
+
+**Architecture & Practices**
+`REST APIs` `GraphQL` `Microservices` `Software Architecture` `Agile / SAFe`
+
+**AI Tools**
+`Claude Code` `GitHub Copilot` `Cursor` `OpenAI Codex`
+
+---
+
+## Certifications
+
+- ☁️ [GCP Professional Cloud Architect](https://www.credential.net/profile/guillermoantoniocrescenciosalgado347764/wallet#gs.pw3n0f) — Google Cloud, 2021
+- ☁️ [GCP Associate Cloud Engineer](https://www.credential.net/profile/guillermoantoniocrescenciosalgado347764/wallet#gs.pw3n0f) — Google Cloud, 2020
+- 🔄 [SAFe® 5 DevOps Practitioner](https://www.credly.com/users/guillermo-antonio-crescencio-salgado/badges) — Scaled Agile, 2021
+- 📋 [SAFe® 5 Product Owner / PM](https://www.credly.com/users/guillermo-antonio-crescencio-salgado/badges) — Scaled Agile, 2021
+
+---
+
+## Education
+
+🎓 Bachelor's Degree in Systems Engineering — Universidad Nacional Autónoma de Honduras (UNAH), *cum laude*, 2017
+
+---
+
+## Languages
+
+🇪🇸 Spanish — C2 Native &nbsp;|&nbsp; 🇺🇸 English — B2 Upper Intermediate
+
+---
+
+## Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/salgadoguiller)
+- 🐦 [X / Twitter](https://twitter.com/salgadoguiller)
 - 💻 [Portfolio](https://portfolio-three-pearl-77.vercel.app/)
-- 📂 [GCP Certifications](https://www.credential.net/profile/guillermoantoniocrescenciosalgado347764/wallet#gs.pw3n0f)
-- 🗂️ [SAFe® 5 Certifications](https://www.credly.com/users/guillermo-antonio-crescencio-salgado/badges)
+- 📄 [Resume](https://drive.google.com/file/d/102TpCZmsRu6DS21CTotDSPjzmPdXzS4N/view)
+- 📨 [Email](mailto:guillermosalgado822@gmail.com)
+- 📱 [WhatsApp](https://wa.me/+50496406631)
