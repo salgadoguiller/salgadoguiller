@@ -21,8 +21,7 @@ Senior Software Engineer with 10+ years of experience turning ideas into scalabl
 | Company | Role | Period | Stack |
 |---|---|---|---|
 | [Abstract Development Studio](https://abstractdev.studio) | Senior Software Engineer | Jun 2023 – Present | TypeScript, React, Next.js, Node.js, Firebase, GCP, Stripe |
-| Sumadi | Senior Software Engineer | Feb 2022 – Sep 2023 | TypeScript, React, Node.js, Express, PostgreSQL, AWS |
-| 01 Digital Age | Senior Software Engineer | Apr 2021 – May 2023 | TypeScript, Python, Vue, React, Django, GCP, AWS |
+| 01 Digital Age | Senior Software Engineer | Oct 2021 – May 2023 | TypeScript, Python, Vue, React, Django, GCP, AWS |
 | Laureate International Universities | Senior Software Engineer | Oct 2016 – Oct 2021 | TypeScript, Angular, Python, Node.js, Django, Flask, GCP |
 
 ---
